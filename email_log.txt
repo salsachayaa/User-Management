@@ -1,0 +1,42 @@
+=== Email Sent at 2025-10-31 08:10:58 ===
+To: salsachayaa@gmail.com
+Subject: Aktivasi Akun - User Management System
+Message:
+
+                    <html>
+                    <body>
+                        <h2>Selamat Datang, Salsabila!</h2>
+                        <p>Terima kasih telah mendaftar sebagai Admin Gudang.</p>
+                        <p>Silakan klik tautan di bawah ini untuk mengaktifkan akun Anda:</p>
+                        <p><a href='http://localhost/usermanagement/activate.php?token=11efb0582ba60da69a8b39f853731b4971dec790fcd298f41918f5efacf5203b'>http://localhost/usermanagement/activate.php?token=11efb0582ba60da69a8b39f853731b4971dec790fcd298f41918f5efacf5203b</a></p>
+                        <p>Tautan ini akan berlaku selama 24 jam.</p>
+                        <p>Jika Anda tidak merasa mendaftar, abaikan email ini.</p>
+                        <br>
+                        <p>Salam,<br>Tim User Management System</p>
+                    </body>
+                    </html>
+                
+Status: FAILED
+==========================================
+
+=== Email Sent at 2025-10-31 08:48:10 ===
+To: salsachayaa@gmail.com
+Subject: Aktivasi Akun - User Management System
+Message:
+
+                    <html>
+                    <body>
+                        <h2>Selamat Datang, Salsabila!</h2>
+                        <p>Terima kasih telah mendaftar sebagai Admin Gudang.</p>
+                        <p>Silakan klik tautan di bawah ini untuk mengaktifkan akun Anda:</p>
+                        <p><a href='http://localhost/usermanagement/activate.php?token=c9ab578d72fc67586b6b384474d47d2f3bf55644022b125b1af3475ce670de34'>http://localhost/usermanagement/activate.php?token=c9ab578d72fc67586b6b384474d47d2f3bf55644022b125b1af3475ce670de34</a></p>
+                        <p>Tautan ini akan berlaku selama 24 jam.</p>
+                        <p>Jika Anda tidak merasa mendaftar, abaikan email ini.</p>
+                        <br>
+                        <p>Salam,<br>Tim User Management System</p>
+                    </body>
+                    </html>
+                
+Status: FAILED
+==========================================
+
